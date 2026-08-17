@@ -44,7 +44,7 @@ export function TheFuture() {
           transition={{ duration: 1 }}
           className="font-sans text-xs tracking-mega text-gold uppercase"
         >
-          Chapter Eleven
+          Chapter Eight
         </motion.p>
 
         {/* constellation diagram */}

@@ -22,7 +22,7 @@ export function WhatICarryForward() {
           transition={{ duration: 1 }}
           className="mb-16 text-center"
         >
-          <p className="font-sans text-xs tracking-mega text-gold uppercase">Chapter Ten</p>
+          <p className="font-sans text-xs tracking-mega text-gold uppercase">Chapter Seven</p>
           <h2 className="mt-4 font-serif text-3xl font-light text-ivory md:text-5xl">
             What I Carry Forward
           </h2>

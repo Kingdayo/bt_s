@@ -9,10 +9,8 @@ import { TheThingsYouGaveMe } from '@/components/sections/TheThingsYouGaveMe';
 import { ThingsINeverSaidEnough } from '@/components/sections/ThingsINeverSaidEnough';
 import { TheDegree } from '@/components/sections/TheDegree';
 import { IfLifeWereCode } from '@/components/sections/IfLifeWereCode';
-import { ParentTribute } from '@/components/sections/ParentTribute';
 import { WhatICarryForward } from '@/components/sections/WhatICarryForward';
 import { TheFuture } from '@/components/sections/TheFuture';
-import { ThePromise } from '@/components/sections/ThePromise';
 import { PhotolessStatement } from '@/components/sections/PhotolessStatement';
 import { FinalLetter } from '@/components/sections/FinalLetter';
 import { EasterEgg } from '@/components/sections/EasterEgg';
@@ -82,11 +80,8 @@ export default function Home() {
             <ThingsINeverSaidEnough />
             <TheDegree />
             <IfLifeWereCode />
-            <ParentTribute parent="mother" chapter="Chapter Eight" accentSide="left" />
-            <ParentTribute parent="father" chapter="Chapter Nine" accentSide="right" />
             <WhatICarryForward />
             <TheFuture />
-            <ThePromise />
             <PhotolessStatement />
             <FinalLetter />
             <EasterEgg />
