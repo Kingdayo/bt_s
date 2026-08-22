@@ -13,7 +13,7 @@ export function EasterEgg() {
   return (
     <section
       id="easter-egg"
-      className="grain relative w-full overflow-hidden bg-ink px-6 py-24 md:px-12 md:py-32"
+      className="grain relative w-full overflow-hidden bg-red-600 px-6 py-24 md:px-12 md:py-32"
       aria-label="A hidden message"
     >
       <div className="mx-auto max-w-2xl text-center">
